@@ -10,7 +10,7 @@ This project uses **Logistic Regression** to predict whether a patient has diabe
 - **SkinThickness**: Triceps skinfold thickness (mm)  
 - **Insulin**: 2-Hour serum insulin (mu U/ml)  
 - **BMI**: Body mass index (weight in kg/(height in m)^2)  
-- **DiabetesPedigreeFunction**: Diabetes pedigree function  
+- **DiabetesPedigreeFunction**: Diabetes pedigree function   
 - **Age**: Age in years  
 - **Outcome**: Class variable (0 = no diabetes, 1 = diabetes)  
 

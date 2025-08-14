@@ -4,8 +4,6 @@ This project uses **Logistic Regression** to predict whether a patient has diabe
 
 ## Dataset
 
-The dataset is publicly available at [UCI Machine Learning Repository](https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv) and contains the following columns:
-
 - **Pregnancies**: Number of times pregnant  
 - **Glucose**: Plasma glucose concentration  
 - **BloodPressure**: Diastolic blood pressure (mm Hg)  

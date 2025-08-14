@@ -4,7 +4,7 @@ This project uses **Logistic Regression** to predict whether a patient has diabe
 
 ## Dataset
 
-- **Pregnancies**: Number of times pregnant  
+- **Pregnancies**: Number of times pregnant   
 - **Glucose**: Plasma glucose concentration  
 - **BloodPressure**: Diastolic blood pressure (mm Hg)  
 - **SkinThickness**: Triceps skinfold thickness (mm)  
